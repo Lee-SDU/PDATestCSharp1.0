@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\bin\Debug\PDATestCSharp.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\bin\Debug\PDATestCSharp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\obj\Debug\PDATestCSharp.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\obj\Debug\PDATestCSharp.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\obj\Debug\PDATestCSharp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\obj\Debug\PDATestCSharp.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\obj\Debug\PDATestCSharp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\PDATestCSharp\obj\Debug\PDATestCSharp.Login.resources
